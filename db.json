@@ -1,9 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "cars": [
+    {
+      "name": "asdf",
+      "model": "asdf",
+      "year": "adsf",
+      "id": 1
+    },
+    {
+      "name": "audi",
+      "model": "a4",
+      "year": "1997",
+      "id": 2
+    },
+    {
+      "name": "audi",
+      "model": "a4",
+      "year": "1997",
+      "id": 4
+    },
+    {
+      "name": "kdjd",
+      "model": "ldjd",
+      "year": "1997",
+      "id": 5
+    }
+  ]
 }
