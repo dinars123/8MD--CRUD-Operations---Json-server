@@ -6,6 +6,7 @@ body {
   min-height: 100vh;
   background-image: linear-gradient(to right bottom, #000000, #331019, #620f24, #920728, #c20023, #cc231c, #d43912, #db4b00, #c25c06, #ab661a, #966c2e, #856e42);
   background-repeat: no-repeat;
+ 
 }
 
 .h1,
@@ -19,6 +20,14 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   row-gap: 40px;
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  
 }
 
 .car{

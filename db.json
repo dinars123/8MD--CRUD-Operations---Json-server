@@ -1,18 +1,3 @@
 {
-  "cars": [
-    {
-      "name": "audi",
-      "model": "a6",
-      "year": "2000",
-      "date": 1700745372550,
-      "id": 1
-    },
-    {
-      "name": "subaru",
-      "model": "gg",
-      "year": "2002",
-      "date": 1700745554055,
-      "id": 3
-    }
-  ]
+  "cars": []
 }

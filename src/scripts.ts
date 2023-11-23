@@ -28,7 +28,7 @@ const drawCars = () => {
     }
     title.innerHTML = titlesText;
   });
-
+ 
   axios.get("http://localhost:3004/cars/").then(({ data }: AxiosResponse<Cars[]>) => {
     data.forEach((cars: Cars) => {
       let carName = cars.name.toLowerCase().trim();
