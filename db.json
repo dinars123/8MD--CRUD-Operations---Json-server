@@ -1,28 +1,18 @@
 {
   "cars": [
     {
-      "name": "asdf",
-      "model": "asdf",
-      "year": "adsf",
+      "name": "audi",
+      "model": "a6",
+      "year": "2000",
+      "date": 1700745372550,
       "id": 1
     },
     {
-      "name": "audi",
-      "model": "a4",
-      "year": "1997",
-      "id": 2
-    },
-    {
-      "name": "audi",
-      "model": "a4",
-      "year": "1997",
-      "id": 4
-    },
-    {
-      "name": "kdjd",
-      "model": "ldjd",
-      "year": "1997",
-      "id": 5
+      "name": "subaru",
+      "model": "gg",
+      "year": "2002",
+      "date": 1700745554055,
+      "id": 3
     }
   ]
 }
